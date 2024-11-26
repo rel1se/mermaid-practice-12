@@ -68,7 +68,7 @@ journey
       Администратор: 3: Проверяет рекомендации ИИ
     section Выдача результата пользователю
       Система: 5: Отправляет результат пользователю
-
+```
 
 ## Квадрант-граф функциональных возможностей
 
@@ -90,7 +90,7 @@ quadrantChart
     Knowledge Base Update: [0.6, 0.5]
     Submit Complaint: [0.5, 0.6]
     Recommendation Review: [0.8, 0.4]
-
+```
 
 ## Диаграмма Git-репозитория
 
@@ -150,3 +150,4 @@ gitGraph
     merge feature/microservice-admin id: "Merged admin service"
     commit id: "Final version with all microservices integrated"
     commit id: "Bug fixes and optimizations"
+```
